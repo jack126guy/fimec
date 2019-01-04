@@ -2,7 +2,7 @@
 
 import json
 
-JSON_PATH = "data/episodes/base.json"
+JSON_PATH = "data/episodes.json"
 
 dupes_found = False
 codes = {}
