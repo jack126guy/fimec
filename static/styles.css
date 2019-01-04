@@ -1,0 +1,16 @@
+.episodes {
+	list-style-type: none;
+	padding-left: 0;
+}
+.episodes li {
+	margin-bottom: 1em;
+}
+.epheader {
+	font-size: 110%;
+}
+.epcode {
+	font-family: monospace;
+}
+.epname-alt {
+	font-style: italic;
+}

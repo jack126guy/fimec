@@ -1,0 +1,1395 @@
+[
+	{
+		"season": 1,
+		"number": 1,
+		"alt": false,
+		"title": "Friendship is Magic (Part 1)",
+		"code": "FA"
+	},
+	{
+		"season": 1,
+		"number": 1,
+		"alt": true,
+		"title": "Mare in the Moon (Part 1)",
+		"code": "MA"
+	},
+	{
+		"season": 1,
+		"number": 2,
+		"alt": false,
+		"title": "Friendship is Magic (Part 2)",
+		"code": "FB"
+	},
+	{
+		"season": 1,
+		"number": 2,
+		"alt": true,
+		"title": "Mare in the Moon (Part 2)",
+		"code": "MB"
+	},
+	{
+		"season": 1,
+		"number": 3,
+		"alt": false,
+		"title": "The Ticket Master",
+		"code": "TM"
+	},
+	{
+		"season": 1,
+		"number": 4,
+		"alt": false,
+		"title": "Applebuck Season",
+		"code": "AB"
+	},
+	{
+		"season": 1,
+		"number": 5,
+		"alt": false,
+		"title": "Griffon the Brush Off",
+		"code": "GB"
+	},
+	{
+		"season": 1,
+		"number": 6,
+		"alt": false,
+		"title": "Boast Busters",
+		"code": "BB"
+	},
+	{
+		"season": 1,
+		"number": 7,
+		"alt": false,
+		"title": "Dragonshy",
+		"code": "DS"
+	},
+	{
+		"season": 1,
+		"number": 8,
+		"alt": false,
+		"title": "Look Before You Sleep",
+		"code": "LB"
+	},
+	{
+		"season": 1,
+		"number": 9,
+		"alt": false,
+		"title": "Bridle Gossip",
+		"code": "BG"
+	},
+	{
+		"season": 1,
+		"number": 10,
+		"alt": false,
+		"title": "Swarm of the Century",
+		"code": "SC"
+	},
+	{
+		"season": 1,
+		"number": 11,
+		"alt": false,
+		"title": "Winter Wrap Up",
+		"code": "WW"
+	},
+	{
+		"season": 1,
+		"number": 12,
+		"alt": false,
+		"title": "Call of the Cutie",
+		"code": "CC"
+	},
+	{
+		"season": 1,
+		"number": 13,
+		"alt": false,
+		"title": "Fall Weather Friends",
+		"code": "FW"
+	},
+	{
+		"season": 1,
+		"number": 14,
+		"alt": false,
+		"title": "Suited For Success",
+		"code": "SU"
+	},
+	{
+		"season": 1,
+		"number": 15,
+		"alt": false,
+		"title": "Feeling Pinkie Keen",
+		"code": "PK"
+	},
+	{
+		"season": 1,
+		"number": 16,
+		"alt": false,
+		"title": "Sonic Rainboom",
+		"code": "SR"
+	},
+	{
+		"season": 1,
+		"number": 17,
+		"alt": false,
+		"title": "Stare Master",
+		"code": "SM"
+	},
+	{
+		"season": 1,
+		"number": 18,
+		"alt": false,
+		"title": "The Show Stoppers",
+		"code": "SH"
+	},
+	{
+		"season": 1,
+		"number": 19,
+		"alt": false,
+		"title": "A Dog and Pony Show",
+		"code": "DP"
+	},
+	{
+		"season": 1,
+		"number": 20,
+		"alt": false,
+		"title": "Green Isn't Your Color",
+		"code": "GC"
+	},
+	{
+		"season": 1,
+		"number": 21,
+		"alt": false,
+		"title": "Over a Barrel",
+		"code": "OB"
+	},
+	{
+		"season": 1,
+		"number": 22,
+		"alt": false,
+		"title": "A Bird in the Hoof",
+		"code": "BH"
+	},
+	{
+		"season": 1,
+		"number": 23,
+		"alt": false,
+		"title": "The Cutie Mark Chronicles",
+		"code": "CM"
+	},
+	{
+		"season": 1,
+		"number": 24,
+		"alt": false,
+		"title": "Owl's Well That Ends Well",
+		"code": "OW"
+	},
+	{
+		"season": 1,
+		"number": 25,
+		"alt": false,
+		"title": "Party of One",
+		"code": "PO"
+	},
+	{
+		"season": 1,
+		"number": 26,
+		"alt": false,
+		"title": "The Best Night Ever",
+		"code": "BN"
+	},
+	{
+		"season": 2,
+		"number": 1,
+		"alt": false,
+		"title": "The Return of Harmony (Part 1)",
+		"code": "RA"
+	},
+	{
+		"season": 2,
+		"number": 2,
+		"alt": false,
+		"title": "The Return of Harmony (Part 2)",
+		"code": "RB"
+	},
+	{
+		"season": 2,
+		"number": 3,
+		"alt": false,
+		"title": "Lesson Zero",
+		"code": "LZ"
+	},
+	{
+		"season": 2,
+		"number": 4,
+		"alt": false,
+		"title": "Luna Eclipsed",
+		"code": "LE"
+	},
+	{
+		"season": 2,
+		"number": 5,
+		"alt": false,
+		"title": "Sisterhooves Social",
+		"code": "SS"
+	},
+	{
+		"season": 2,
+		"number": 6,
+		"alt": false,
+		"title": "The Cutie Pox",
+		"code": "CP"
+	},
+	{
+		"season": 2,
+		"number": 7,
+		"alt": false,
+		"title": "May the Best Pet Win!",
+		"code": "BP"
+	},
+	{
+		"season": 2,
+		"number": 8,
+		"alt": false,
+		"title": "The Mysterious Mare Do Well",
+		"code": "DW"
+	},
+	{
+		"season": 2,
+		"number": 9,
+		"alt": false,
+		"title": "Sweet and Elite",
+		"code": "SE"
+	},
+	{
+		"season": 2,
+		"number": 10,
+		"alt": false,
+		"title": "Secret of My Excess",
+		"code": "ME"
+	},
+	{
+		"season": 2,
+		"number": 11,
+		"alt": false,
+		"title": "Hearth's Warming Eve",
+		"code": "HW"
+	},
+	{
+		"season": 2,
+		"number": 12,
+		"alt": false,
+		"title": "Family Appreciation Day",
+		"code": "AD"
+	},
+	{
+		"season": 2,
+		"number": 13,
+		"alt": false,
+		"title": "Baby Cakes",
+		"code": "BC"
+	},
+	{
+		"season": 2,
+		"number": 14,
+		"alt": false,
+		"title": "The Last Roundup",
+		"code": "LR"
+	},
+	{
+		"season": 2,
+		"number": 15,
+		"alt": false,
+		"title": "The Super Speedy Cider Squeezy 6000",
+		"code": "CS"
+	},
+	{
+		"season": 2,
+		"number": 16,
+		"alt": false,
+		"title": "Read It and Weep",
+		"code": "RW"
+	},
+	{
+		"season": 2,
+		"number": 17,
+		"alt": false,
+		"title": "Hearts and Hooves Day",
+		"code": "HH"
+	},
+	{
+		"season": 2,
+		"number": 18,
+		"alt": false,
+		"title": "A Friend in Deed",
+		"code": "FD"
+	},
+	{
+		"season": 2,
+		"number": 19,
+		"alt": false,
+		"title": "Putting Your Hoof Down",
+		"code": "HD"
+	},
+	{
+		"season": 2,
+		"number": 20,
+		"alt": false,
+		"title": "It's About Time",
+		"code": "AT"
+	},
+	{
+		"season": 2,
+		"number": 21,
+		"alt": false,
+		"title": "Dragon Quest",
+		"code": "DQ"
+	},
+	{
+		"season": 2,
+		"number": 22,
+		"alt": false,
+		"title": "Hurricane Fluttershy",
+		"code": "HF"
+	},
+	{
+		"season": 2,
+		"number": 23,
+		"alt": false,
+		"title": "Ponyville Confidential",
+		"code": "PC"
+	},
+	{
+		"season": 2,
+		"number": 24,
+		"alt": false,
+		"title": "MMMystery on the Friendship Express",
+		"code": "MM"
+	},
+	{
+		"season": 2,
+		"number": 25,
+		"alt": false,
+		"title": "A Canterlot Wedding (Part 1)",
+		"code": "WA"
+	},
+	{
+		"season": 2,
+		"number": 26,
+		"alt": false,
+		"title": "A Canterlot Wedding (Part 2)",
+		"code": "WB"
+	},
+	{
+		"season": 3,
+		"number": 1,
+		"alt": false,
+		"title": "The Crystal Empire (Part 1)",
+		"code": "CA"
+	},
+	{
+		"season": 3,
+		"number": 2,
+		"alt": false,
+		"title": "The Crystal Empire (Part 2)",
+		"code": "CB"
+	},
+	{
+		"season": 3,
+		"number": 3,
+		"alt": false,
+		"title": "Too Many Pinkie Pies",
+		"code": "MP"
+	},
+	{
+		"season": 3,
+		"number": 4,
+		"alt": false,
+		"title": "One Bad Apple",
+		"code": "BA"
+	},
+	{
+		"season": 3,
+		"number": 5,
+		"alt": false,
+		"title": "Magic Duel",
+		"code": "MD"
+	},
+	{
+		"season": 3,
+		"number": 6,
+		"alt": false,
+		"title": "Sleepless in Ponyville",
+		"code": "SP"
+	},
+	{
+		"season": 3,
+		"number": 7,
+		"alt": false,
+		"title": "Wonderbolts Academy",
+		"code": "AC"
+	},
+	{
+		"season": 3,
+		"number": 8,
+		"alt": false,
+		"title": "Apple Family Reunion",
+		"code": "FR"
+	},
+	{
+		"season": 3,
+		"number": 9,
+		"alt": false,
+		"title": "Spike at Your Service",
+		"code": "YS"
+	},
+	{
+		"season": 3,
+		"number": 10,
+		"alt": false,
+		"title": "Keep Calm and Flutter On",
+		"code": "CF"
+	},
+	{
+		"season": 3,
+		"number": 11,
+		"alt": false,
+		"title": "Just for Sidekicks",
+		"code": "JS"
+	},
+	{
+		"season": 3,
+		"number": 12,
+		"alt": false,
+		"title": "Games Ponies Play",
+		"code": "GP"
+	},
+	{
+		"season": 3,
+		"number": 13,
+		"alt": false,
+		"title": "Magical Mystery Cure",
+		"code": "MC"
+	},
+	{
+		"season": 4,
+		"number": 1,
+		"alt": false,
+		"title": "Princess Twilight Sparkle (Part 1)",
+		"code": "PA"
+	},
+	{
+		"season": 4,
+		"number": 2,
+		"alt": false,
+		"title": "Princess Twilight Sparkle (Part 2)",
+		"code": "PB"
+	},
+	{
+		"season": 4,
+		"number": 3,
+		"alt": false,
+		"title": "Castle Mane-ia",
+		"code": "MI"
+	},
+	{
+		"season": 4,
+		"number": 4,
+		"alt": false,
+		"title": "Daring Don't",
+		"code": "DD"
+	},
+	{
+		"season": 4,
+		"number": 5,
+		"alt": false,
+		"title": "Flight to the Finish",
+		"code": "FF"
+	},
+	{
+		"season": 4,
+		"number": 6,
+		"alt": false,
+		"title": "Power Ponies",
+		"code": "PP"
+	},
+	{
+		"season": 4,
+		"number": 7,
+		"alt": false,
+		"title": "Bats!",
+		"code": "BT"
+	},
+	{
+		"season": 4,
+		"number": 8,
+		"alt": false,
+		"title": "Rarity Takes Manehattan",
+		"code": "RM"
+	},
+	{
+		"season": 4,
+		"number": 9,
+		"alt": false,
+		"title": "Pinkie Apple Pie",
+		"code": "AP"
+	},
+	{
+		"season": 4,
+		"number": 10,
+		"alt": false,
+		"title": "Rainbow Falls",
+		"code": "RF"
+	},
+	{
+		"season": 4,
+		"number": 11,
+		"alt": false,
+		"title": "Three's A Crowd",
+		"code": "TC"
+	},
+	{
+		"season": 4,
+		"number": 12,
+		"alt": false,
+		"title": "Pinkie Pride",
+		"code": "PR"
+	},
+	{
+		"season": 4,
+		"number": 13,
+		"alt": false,
+		"title": "Simple Ways",
+		"code": "SW"
+	},
+	{
+		"season": 4,
+		"number": 14,
+		"alt": false,
+		"title": "Filli Vanilli",
+		"code": "FV"
+	},
+	{
+		"season": 4,
+		"number": 15,
+		"alt": false,
+		"title": "Twilight Time",
+		"code": "TT"
+	},
+	{
+		"season": 4,
+		"number": 16,
+		"alt": false,
+		"title": "It Ain't Easy Being Breezies",
+		"code": "EB"
+	},
+	{
+		"season": 4,
+		"number": 17,
+		"alt": false,
+		"title": "Somepony to Watch Over Me",
+		"code": "WO"
+	},
+	{
+		"season": 4,
+		"number": 18,
+		"alt": false,
+		"title": "Maud Pie",
+		"code": "MU"
+	},
+	{
+		"season": 4,
+		"number": 19,
+		"alt": false,
+		"title": "For Whom the Sweetie Belle Toils",
+		"code": "WT"
+	},
+	{
+		"season": 4,
+		"number": 20,
+		"alt": false,
+		"title": "Leap of Faith",
+		"code": "LF"
+	},
+	{
+		"season": 4,
+		"number": 21,
+		"alt": false,
+		"title": "Testing Testing 1, 2, 3",
+		"code": "TE"
+	},
+	{
+		"season": 4,
+		"number": 22,
+		"alt": false,
+		"title": "Trade Ya!",
+		"code": "TY"
+	},
+	{
+		"season": 4,
+		"number": 23,
+		"alt": false,
+		"title": "Inspiration Manifestation",
+		"code": "IM"
+	},
+	{
+		"season": 4,
+		"number": 24,
+		"alt": false,
+		"title": "Equestria Games",
+		"code": "EG"
+	},
+	{
+		"season": 4,
+		"number": 25,
+		"alt": false,
+		"title": "Twilight's Kingdom (Part 1)",
+		"code": "TA"
+	},
+	{
+		"season": 4,
+		"number": 26,
+		"alt": false,
+		"title": "Twilight's Kingdom (Part 2)",
+		"code": "TB"
+	},
+	{
+		"season": 5,
+		"number": 1,
+		"alt": false,
+		"title": "The Cutie Map (Part 1)",
+		"code": "HA"
+	},
+	{
+		"season": 5,
+		"number": 1,
+		"alt": true,
+		"title": "Cutie Markless (Part 1)",
+		"code": "SA"
+	},
+	{
+		"season": 5,
+		"number": 2,
+		"alt": false,
+		"title": "The Cutie Map (Part 2)",
+		"code": "HB"
+	},
+	{
+		"season": 5,
+		"number": 2,
+		"alt": true,
+		"title": "Cutie Markless (Part 2)",
+		"code": "SB"
+	},
+	{
+		"season": 5,
+		"number": 3,
+		"alt": false,
+		"title": "Castle Sweet Castle",
+		"code": "CW"
+	},
+	{
+		"season": 5,
+		"number": 4,
+		"alt": false,
+		"title": "Bloom and Gloom",
+		"code": "GL"
+	},
+	{
+		"season": 5,
+		"number": 5,
+		"alt": false,
+		"title": "Tanks for the Memories",
+		"code": "TK"
+	},
+	{
+		"season": 5,
+		"number": 6,
+		"alt": false,
+		"title": "Appleloosa's Most Wanted",
+		"code": "MW"
+	},
+	{
+		"season": 5,
+		"number": 7,
+		"alt": false,
+		"title": "Make New Friends But Keep Discord",
+		"code": "KD"
+	},
+	{
+		"season": 5,
+		"number": 8,
+		"alt": false,
+		"title": "The Lost Treasure of Griffonstone",
+		"code": "LT"
+	},
+	{
+		"season": 5,
+		"number": 9,
+		"alt": false,
+		"title": "Slice of Life",
+		"code": "SL"
+	},
+	{
+		"season": 5,
+		"number": 10,
+		"alt": false,
+		"title": "Princess Spike",
+		"code": "PS"
+	},
+	{
+		"season": 5,
+		"number": 11,
+		"alt": false,
+		"title": "Party Pooped",
+		"code": "OO"
+	},
+	{
+		"season": 5,
+		"number": 12,
+		"alt": false,
+		"title": "Amending Fences",
+		"code": "AF"
+	},
+	{
+		"season": 5,
+		"number": 13,
+		"alt": false,
+		"title": "Do Princesses Dream of Magic Sheep?",
+		"code": "MS"
+	},
+	{
+		"season": 5,
+		"number": 14,
+		"alt": false,
+		"title": "Canterlot Boutique",
+		"code": "BO"
+	},
+	{
+		"season": 5,
+		"number": 15,
+		"alt": false,
+		"title": "Rarity Investigates",
+		"code": "RI"
+	},
+	{
+		"season": 5,
+		"number": 16,
+		"alt": false,
+		"title": "Made in Manehattan",
+		"code": "MN"
+	},
+	{
+		"season": 5,
+		"number": 17,
+		"alt": false,
+		"title": "Brotherhooves Social",
+		"code": "BS"
+	},
+	{
+		"season": 5,
+		"number": 18,
+		"alt": false,
+		"title": "Crusaders of the Lost Mark",
+		"code": "LM"
+	},
+	{
+		"season": 5,
+		"number": 19,
+		"alt": false,
+		"title": "The One Where Pinkie Pie Knows",
+		"code": "WP"
+	},
+	{
+		"season": 5,
+		"number": 20,
+		"alt": false,
+		"title": "Hearthbreakers",
+		"code": "BR"
+	},
+	{
+		"season": 5,
+		"number": 21,
+		"alt": false,
+		"title": "Scare Master",
+		"code": "MR"
+	},
+	{
+		"season": 5,
+		"number": 22,
+		"alt": false,
+		"title": "What About Discord?",
+		"code": "WH"
+	},
+	{
+		"season": 5,
+		"number": 23,
+		"alt": false,
+		"title": "The Hooffields and McColts",
+		"code": "HM"
+	},
+	{
+		"season": 5,
+		"number": 24,
+		"alt": false,
+		"title": "The Mane Attraction",
+		"code": "AR"
+	},
+	{
+		"season": 5,
+		"number": 25,
+		"alt": false,
+		"title": "The Cutie Re-Mark (Part 1)",
+		"code": "KA"
+	},
+	{
+		"season": 5,
+		"number": 26,
+		"alt": false,
+		"title": "The Cutie Re-Mark (Part 2)",
+		"code": "KB"
+	},
+	{
+		"season": 6,
+		"number": 1,
+		"alt": false,
+		"title": "The Crystalling (Part 1)",
+		"code": "YA"
+	},
+	{
+		"season": 6,
+		"number": 2,
+		"alt": false,
+		"title": "The Crystalling (Part 2)",
+		"code": "YB"
+	},
+	{
+		"season": 6,
+		"number": 3,
+		"alt": false,
+		"title": "The Gift of the Maud Pie",
+		"code": "GM"
+	},
+	{
+		"season": 6,
+		"number": 4,
+		"alt": false,
+		"title": "On Your Marks",
+		"code": "OM"
+	},
+	{
+		"season": 6,
+		"number": 5,
+		"alt": false,
+		"title": "Gauntlet of Fire",
+		"code": "GF"
+	},
+	{
+		"season": 6,
+		"number": 6,
+		"alt": false,
+		"title": "No Second Prances",
+		"code": "NS"
+	},
+	{
+		"season": 6,
+		"number": 7,
+		"alt": false,
+		"title": "Newbie Dash",
+		"code": "ND"
+	},
+	{
+		"season": 6,
+		"number": 8,
+		"alt": false,
+		"title": "A Hearth's Warming Tail",
+		"code": "HT"
+	},
+	{
+		"season": 6,
+		"number": 9,
+		"alt": false,
+		"title": "The Saddle Row Review",
+		"code": "RV"
+	},
+	{
+		"season": 6,
+		"number": 10,
+		"alt": false,
+		"title": "Applejack's \"Day\" Off",
+		"code": "DO"
+	},
+	{
+		"season": 6,
+		"number": 11,
+		"alt": false,
+		"title": "Flutter Brutter",
+		"code": "BU"
+	},
+	{
+		"season": 6,
+		"number": 12,
+		"alt": false,
+		"title": "Spice Up Your Life",
+		"code": "SY"
+	},
+	{
+		"season": 6,
+		"number": 13,
+		"alt": false,
+		"title": "Stranger than Fan Fiction",
+		"code": "SF"
+	},
+	{
+		"season": 6,
+		"number": 14,
+		"alt": false,
+		"title": "The Cart Before the Ponies",
+		"code": "CT"
+	},
+	{
+		"season": 6,
+		"number": 15,
+		"alt": false,
+		"title": "28 Pranks Later",
+		"code": "PL"
+	},
+	{
+		"season": 6,
+		"number": 16,
+		"alt": false,
+		"title": "The Times They Are A Changeling",
+		"code": "CH"
+	},
+	{
+		"season": 6,
+		"number": 17,
+		"alt": false,
+		"title": "Dungeons and Discords",
+		"code": "DU"
+	},
+	{
+		"season": 6,
+		"number": 18,
+		"alt": false,
+		"title": "Buckball Season",
+		"code": "BK"
+	},
+	{
+		"season": 6,
+		"number": 19,
+		"alt": false,
+		"title": "The Fault in Our Cutie Marks",
+		"code": "FC"
+	},
+	{
+		"season": 6,
+		"number": 20,
+		"alt": false,
+		"title": "Viva Las Pegasus",
+		"code": "VP"
+	},
+	{
+		"season": 6,
+		"number": 21,
+		"alt": false,
+		"title": "Every Little Thing She Does",
+		"code": "EL"
+	},
+	{
+		"season": 6,
+		"number": 22,
+		"alt": false,
+		"title": "P.P.O.V. (Pony Point of View)",
+		"code": "PV"
+	},
+	{
+		"season": 6,
+		"number": 23,
+		"alt": false,
+		"title": "Where the Apple Lies",
+		"code": "AL"
+	},
+	{
+		"season": 6,
+		"number": 24,
+		"alt": false,
+		"title": "Top Bolt",
+		"code": "TO"
+	},
+	{
+		"season": 6,
+		"number": 25,
+		"alt": false,
+		"title": "To Where and Back Again (Part 1)",
+		"code": "IA"
+	},
+	{
+		"season": 6,
+		"number": 26,
+		"alt": false,
+		"title": "To Where and Back Again (Part 2)",
+		"code": "IB"
+	},
+	{
+		"season": 7,
+		"number": 1,
+		"alt": false,
+		"title": "Celestial Advice",
+		"code": "AV"
+	},
+	{
+		"season": 7,
+		"number": 2,
+		"alt": false,
+		"title": "All Bottled Up",
+		"code": "BL"
+	},
+	{
+		"season": 7,
+		"number": 3,
+		"alt": false,
+		"title": "A Flurry of Emotions",
+		"code": "FE"
+	},
+	{
+		"season": 7,
+		"number": 4,
+		"alt": false,
+		"title": "Rock Solid Friendship",
+		"code": "RS"
+	},
+	{
+		"season": 7,
+		"number": 5,
+		"alt": false,
+		"title": "Fluttershy Leans In",
+		"code": "FL"
+	},
+	{
+		"season": 7,
+		"number": 6,
+		"alt": false,
+		"title": "Forever Filly",
+		"code": "FO"
+	},
+	{
+		"season": 7,
+		"number": 7,
+		"alt": false,
+		"title": "Parental Glideance",
+		"code": "PG"
+	},
+	{
+		"season": 7,
+		"number": 8,
+		"alt": false,
+		"title": "Hard to Say Anything",
+		"code": "HS"
+	},
+	{
+		"season": 7,
+		"number": 9,
+		"alt": false,
+		"title": "Honest Apple",
+		"code": "HN"
+	},
+	{
+		"season": 7,
+		"number": 10,
+		"alt": false,
+		"title": "A Royal Problem",
+		"code": "RP"
+	},
+	{
+		"season": 7,
+		"number": 11,
+		"alt": false,
+		"title": "Not Asking for Trouble",
+		"code": "NT"
+	},
+	{
+		"season": 7,
+		"number": 12,
+		"alt": false,
+		"title": "Discordant Harmony",
+		"code": "DH"
+	},
+	{
+		"season": 7,
+		"number": 13,
+		"alt": false,
+		"title": "The Perfect Pear",
+		"code": "PE"
+	},
+	{
+		"season": 7,
+		"number": 14,
+		"alt": false,
+		"title": "Fame and Misfortune",
+		"code": "FM"
+	},
+	{
+		"season": 7,
+		"number": 15,
+		"alt": false,
+		"title": "Triple Threat",
+		"code": "TR"
+	},
+	{
+		"season": 7,
+		"number": 16,
+		"alt": false,
+		"title": "Campfire Tales",
+		"code": "TL"
+	},
+	{
+		"season": 7,
+		"number": 17,
+		"alt": false,
+		"title": "To Change a Changeling",
+		"code": "CG"
+	},
+	{
+		"season": 7,
+		"number": 18,
+		"alt": false,
+		"title": "Daring Done?",
+		"code": "DE"
+	},
+	{
+		"season": 7,
+		"number": 19,
+		"alt": false,
+		"title": "It Isn't the Mane Thing About You",
+		"code": "MT"
+	},
+	{
+		"season": 7,
+		"number": 20,
+		"alt": false,
+		"title": "A Health of Information",
+		"code": "HI"
+	},
+	{
+		"season": 7,
+		"number": 21,
+		"alt": false,
+		"title": "Marks and Recreation",
+		"code": "RC"
+	},
+	{
+		"season": 7,
+		"number": 22,
+		"alt": false,
+		"title": "Once Upon a Zeppelin",
+		"code": "OZ"
+	},
+	{
+		"season": 7,
+		"number": 23,
+		"alt": false,
+		"title": "Secrets and Pies",
+		"code": "CR"
+	},
+	{
+		"season": 7,
+		"number": 24,
+		"alt": false,
+		"title": "Uncommon Bond",
+		"code": "UB"
+	},
+	{
+		"season": 7,
+		"number": 25,
+		"alt": false,
+		"title": "Shadow Play (Part 1)",
+		"code": "DA"
+	},
+	{
+		"season": 7,
+		"number": 26,
+		"alt": false,
+		"title": "Shadow Play (Part 2)",
+		"code": "DB"
+	},
+	{
+		"season": 8,
+		"number": 1,
+		"alt": false,
+		"title": "School Daze (Part 1)",
+		"code": "ZA"
+	},
+	{
+		"season": 8,
+		"number": 2,
+		"alt": false,
+		"title": "School Daze (Part 2)",
+		"code": "ZB"
+	},
+	{
+		"season": 8,
+		"number": 3,
+		"alt": false,
+		"title": "The Maud Couple",
+		"code": "CO"
+	},
+	{
+		"season": 8,
+		"number": 4,
+		"alt": false,
+		"title": "Fake It 'Til You Make It",
+		"code": "FI"
+	},
+	{
+		"season": 8,
+		"number": 5,
+		"alt": false,
+		"title": "Grannies Gone Wild",
+		"code": "GW"
+	},
+	{
+		"season": 8,
+		"number": 6,
+		"alt": false,
+		"title": "Surf and/or Turf",
+		"code": "ST"
+	},
+	{
+		"season": 8,
+		"number": 7,
+		"alt": false,
+		"title": "Horse Play",
+		"code": "HP"
+	},
+	{
+		"season": 8,
+		"number": 8,
+		"alt": false,
+		"title": "The Parent Map",
+		"code": "PM"
+	},
+	{
+		"season": 8,
+		"number": 9,
+		"alt": false,
+		"title": "Non-Compete Clause",
+		"code": "NC"
+	},
+	{
+		"season": 8,
+		"number": 10,
+		"alt": false,
+		"title": "The Break Up Break Down",
+		"code": "BD"
+	},
+	{
+		"season": 8,
+		"number": 11,
+		"alt": false,
+		"title": "Molt Down",
+		"code": "MO"
+	},
+	{
+		"season": 8,
+		"number": 12,
+		"alt": false,
+		"title": "Marks for Effort",
+		"code": "EF"
+	},
+	{
+		"season": 8,
+		"number": 13,
+		"alt": false,
+		"title": "The Mean 6",
+		"code": "EA"
+	},
+	{
+		"season": 8,
+		"number": 14,
+		"alt": false,
+		"title": "A Matter of Principals",
+		"code": "PI"
+	},
+	{
+		"season": 8,
+		"number": 15,
+		"alt": false,
+		"title": "The Hearth's Warming Club",
+		"code": "WC"
+	},
+	{
+		"season": 8,
+		"number": 16,
+		"alt": false,
+		"title": "Friendship University",
+		"code": "FU"
+	},
+	{
+		"season": 8,
+		"number": 17,
+		"alt": false,
+		"title": "The End in Friend",
+		"code": "EN"
+	},
+	{
+		"season": 8,
+		"number": 18,
+		"alt": false,
+		"title": "Yakity-Sax",
+		"code": "YK"
+	},
+	{
+		"season": 8,
+		"number": 19,
+		"alt": false,
+		"title": "Road to Friendship",
+		"code": "RO"
+	},
+	{
+		"season": 8,
+		"number": 20,
+		"alt": false,
+		"title": "The Washouts",
+		"code": "WS"
+	},
+	{
+		"season": 8,
+		"number": 21,
+		"alt": false,
+		"title": "A Rockhoof and a Hard Place",
+		"code": "RH"
+	},
+	{
+		"season": 8,
+		"number": 22,
+		"alt": false,
+		"title": "What Lies Beneath",
+		"code": "WL"
+	},
+	{
+		"season": 8,
+		"number": 23,
+		"alt": false,
+		"title": "Sounds of Silence",
+		"code": "SI"
+	},
+	{
+		"season": 8,
+		"number": 24,
+		"alt": false,
+		"title": "Father Knows Beast",
+		"code": "FK"
+	},
+	{
+		"season": 8,
+		"number": 25,
+		"alt": false,
+		"title": "School Raze (Part 1)",
+		"code": "XA"
+	},
+	{
+		"season": 8,
+		"number": 26,
+		"alt": false,
+		"title": "School Raze (Part 2)",
+		"code": "XB"
+	}
+]
