@@ -1,6 +1,6 @@
 {{- partial "header.html" . -}}
 <h1>{{- .Site.Title -}}</h1>
-<div>{{- .Content -}}</div>
+{{- partial "intro.html" . -}}
 {{- $.Scratch.Set "season" "" -}}
 {{- range .Site.Data.episodes -}}
 	{{- if ne .season ($.Scratch.Get "season") -}}
