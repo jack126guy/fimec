@@ -1,3 +1,3 @@
 baseURL = "http://jackgraysonfox.tk/fimec/"
-languageCode = "en-us"
+defaultContentLanguage = "en"
 title = "MLP:FiM Episode Codes"
