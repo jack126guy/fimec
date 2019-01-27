@@ -1,6 +1,7 @@
 {{ partial "header.html" . }}
 <h1>{{ .Title }}</h1>
 <div>{{ .Content }}</div>
+{{ $.Scratch.Set "prefix" "" }}
 {{ range sort .Site.Data.episodes "code" }}
 	{{ if ne (substr .code 0 1) ($.Scratch.Get "prefix") }}
 		{{ if $.Scratch.Get "prefix" }}
