@@ -1391,5 +1391,33 @@
 		"alt": false,
 		"title": "School Raze (Part 2)",
 		"code": "XB"
+	},
+	{
+		"season": 9,
+		"number": 1,
+		"alt": false,
+		"title": "The Beginning of the End (Part 1)",
+		"code": "NA"
+	},
+	{
+		"season": 9,
+		"number": 2,
+		"alt": false,
+		"title": "The Beginning of the End (Part 2)",
+		"code": "NB"
+	},
+	{
+		"season": 9,
+		"number": 3,
+		"alt": false,
+		"title": "Uprooted",
+		"code": "UR"
+	},
+	{
+		"season": 9,
+		"number": 4,
+		"alt": false,
+		"title": "Sparkle's Seven",
+		"code": "SV"
 	}
 ]
