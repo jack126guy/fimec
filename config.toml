@@ -1,3 +1,4 @@
 baseURL = "http://jackgraysonfox.tk/fimec/"
 defaultContentLanguage = "en"
 title = "MLP:FiM Episode Codes"
+disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "robotsTXT", "404"]
