@@ -4,7 +4,7 @@
 
 The site is built with [Hugo](https://gohugo.io/) using a custom theme.
 
-The main driver of the site is `data/episodes.json`, which contains the codes in JSON format and can be used directly for other applications.
+The main drivers of the site are in the `data` directory, which contains the codes in JSON format and can be used directly for other applications.
 
 The `dedup.py` script is a Python script that checks for any duplicate codes.
 
