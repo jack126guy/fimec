@@ -1,0 +1,10 @@
+{{- partial "header.html" . -}}
+<h1>{{- .Title -}}</h1>
+{{- partial "intro.html" . -}}
+{{- $.Scratch.Set "prefix" "" -}}
+{{- partial "episode/list-start.html" . -}}
+{{- range sort .Site.Data.others "code" -}}
+	{{- partial "episode/other.html" . -}}
+{{- end -}}
+{{- partial "episode/list-end.html" . -}}
+{{- partial "footer.html" . -}}
