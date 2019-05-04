@@ -2,7 +2,7 @@
 title = "About"
 +++
 
-This is an experiment in assigning two-letter codes to episodes of *My Little Pony: Friendship is Magic*.
+This is an experiment in assigning two-letter codes to episodes of *My Little Pony: Friendship is Magic* as well as [other media in the franchise]({{< relref "/others/_index.md" >}}).
 
 ## Alt Codes
 
