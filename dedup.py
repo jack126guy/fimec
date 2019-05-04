@@ -2,21 +2,25 @@
 
 import json
 
-JSON_PATH = "data/episodes.json"
+def load_json(filename):
+    with open(filename, "r") as f:
+        return json.load(f)
 
 dupes_found = False
 codes = {}
 
-with open(JSON_PATH, "r") as base_file:
-    episodes = json.load(base_file)
+episodes = load_json("data/episodes.json")
+others = load_json("data/others.json")
 
-for episode in episodes:
-    if episode["code"] in codes:
+all_media = episodes + others
+
+for media in all_media:
+    if media["code"] in codes:
         print("Duplicate found for {}: original {}, new {}" \
-            .format(episode["code"], codes[episode["code"]], episode["title"]))
+            .format(media["code"], codes[media["code"]], media["title"]))
         dupes_found = True
     else:
-        codes[episode["code"]] = episode["title"]
+        codes[media["code"]] = media["title"]
 
 if not dupes_found:
     print("No duplicates found")
