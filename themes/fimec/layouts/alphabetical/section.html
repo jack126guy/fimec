@@ -2,7 +2,8 @@
 <h1>{{- .Title -}}</h1>
 {{- partial "intro.html" . -}}
 {{- $.Scratch.Set "prefix" "" -}}
-{{- range sort .Site.Data.episodes "code" -}}
+{{- $allMedia := (.Site.Data.episodes | append .Site.Data.others) -}}
+{{- range sort $allMedia "code" -}}
 	{{- if ne (substr .code 0 1) ($.Scratch.Get "prefix") -}}
 		{{- if $.Scratch.Get "prefix" -}}
 			{{- partial "episode/list-end.html" . -}}
@@ -11,7 +12,9 @@
 		{{- partial "episode/list-start.html" . -}}
 		{{- $.Scratch.Set "prefix" (substr .code 0 1) -}}
 	{{- end -}}
-	{{- if .alt -}}
+	{{- if not .season -}}
+		{{- partial "episode/other.html" . -}}
+	{{- else if .alt -}}
 		{{- partial "episode/alphabetical-alt.html" . -}}
 	{{- else -}}
 		{{- partial "episode/alphabetical.html" . -}}
