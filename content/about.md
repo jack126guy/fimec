@@ -18,4 +18,4 @@ Codes are always assigned in order of airing, even when I sometimes haven't kept
 
 ## Source Code
 
-The source code for this site, including the codes in JSON format, are available [on GitHub](https://github.com/jack126guy).
+The source code for this site, including the codes in JSON format, are available [on GitHub](https://github.com/jack126guy/fimec).
