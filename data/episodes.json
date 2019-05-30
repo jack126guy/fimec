@@ -1426,5 +1426,33 @@
 		"alt": false,
 		"title": "The Point of No Return",
 		"code": "NR"
+	},
+	{
+		"season": 9,
+		"number": 6,
+		"alt": false,
+		"title": "Common Ground",
+		"code": "GR"
+	},
+	{
+		"season": 9,
+		"number": 7,
+		"alt": false,
+		"title": "She's All Yak",
+		"code": "SK"
+	},
+	{
+		"season": 9,
+		"number": 8,
+		"alt": false,
+		"title": "Frenemies",
+		"code": "FN"
+	},
+	{
+		"season": 9,
+		"number": 9,
+		"alt": false,
+		"title": "Sweet and Smoky",
+		"code": "WM"
 	}
 ]
