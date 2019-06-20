@@ -1454,5 +1454,26 @@
 		"alt": false,
 		"title": "Sweet and Smoky",
 		"code": "WM"
+	},
+	{
+		"season": 9,
+		"number": 10,
+		"alt": false,
+		"title": "Going to Seed",
+		"code": "GS"
+	},
+	{
+		"season": 9,
+		"number": 11,
+		"alt": false,
+		"title": "Student Counsel",
+		"code": "CU"
+	},
+	{
+		"season": 9,
+		"number": 12,
+		"alt": false,
+		"title": "The Last Crusade",
+		"code": "LC"
 	}
 ]
