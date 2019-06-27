@@ -1475,5 +1475,12 @@
 		"alt": false,
 		"title": "The Last Crusade",
 		"code": "LC"
+	},
+	{
+		"season": 9,
+		"number": 13,
+		"alt": false,
+		"title": "Between Dark and Dawn",
+		"code": "DR"
 	}
 ]
