@@ -1482,5 +1482,68 @@
 		"alt": false,
 		"title": "Between Dark and Dawn",
 		"code": "DR"
+	},
+	{
+		"season": 9,
+		"number": 14,
+		"alt": false,
+		"title": "The Last Laugh",
+		"code": "LL"
+	},
+	{
+		"season": 9,
+		"number": 15,
+		"alt": false,
+		"title": "2, 4, 6, Greaaat",
+		"code": "TF"
+	},
+	{
+		"season": 9,
+		"number": 16,
+		"alt": false,
+		"title": "A Trivial Pursuit",
+		"code": "TP"
+	},
+	{
+		"season": 9,
+		"number": 17,
+		"alt": false,
+		"title": "The Summer Sun Setback",
+		"code": "UK"
+	},
+	{
+		"season": 9,
+		"number": 18,
+		"alt": false,
+		"title": "She Talks to Angel",
+		"code": "TG"
+	},
+	{
+		"season": 9,
+		"number": 19,
+		"alt": false,
+		"title": "Dragon Dropped",
+		"code": "AO"
+	},
+	{
+		"season": 9,
+		"number": 20,
+		"alt": false,
+		"title": "A Horse Shoe-In",
+		"code": "HO"
+	},
+	{
+		"season": 9,
+		"number": 21,
+		"alt": false,
+		"title": "Daring Doubt",
+		"code": "RU"
+	},
+	{
+		"season": 9,
+		"number": 22,
+		"alt": false,
+		"title": "Growing Up Is Hard to Do",
+		"code": "GU"
 	}
 ]
