@@ -1552,5 +1552,33 @@
 		"alt": false,
 		"title": "The Big Mac Question",
 		"code": "BQ"
+	},
+	{
+		"season": 9,
+		"number": 24,
+		"alt": false,
+		"title": "The Ending of the End (Part 1)",
+		"code": "JA"
+	},
+	{
+		"season": 9,
+		"number": 25,
+		"alt": false,
+		"title": "The Ending of the End (Part 2)",
+		"code": "JB"
+	},
+	{
+		"season": 9,
+		"number": 26,
+		"alt": false,
+		"title": "The Last Problem",
+		"code": "LP"
+	},
+	{
+		"season": 9,
+		"number": 26,
+		"alt": true,
+		"title": "The Last Problem",
+		"code": "JC"
 	}
 ]
