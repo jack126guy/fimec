@@ -10,6 +10,6 @@ The `dedup.py` script is a Python script that checks for any duplicate codes.
 
 ## License
 
-The contents of the `data` directory are in the public domain under [Creative Commons CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/). A copy is available in `LICENSE-CC0.txt`.
+The contents of the `data` directory are in the public domain under [Creative Commons CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/). A copy is available in `LICENSE-DATA.txt`.
 
-All other contents are available under the MIT License. A copy is available in `LICENSE-MIT.txt`.
+All other contents are available under the MIT License. A copy is available in `LICENSE-SITE.txt`.
