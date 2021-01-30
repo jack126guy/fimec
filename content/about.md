@@ -14,7 +14,7 @@ Codes are generally taken from the first letters of words in the title, and subs
 
 Two-part episodes always have the codes "XA" and "XB", where "X" is a prefix determined similarly to what is described above.
 
-Codes are always assigned in order of airing, even when I sometimes haven't kept up with new episodes.
+Codes are assigned in order of airing, meaning that they tend to become more convoluted over time. (Codes for other media were assigned starting at the beginning of season 9, not strictly in order of airing.)
 
 ## Source Code
 
