@@ -1,8 +1,5 @@
 {{- define "main" -}}
 	<div>{{ .Content }}</div>
-	{{- partial "episode/list-start.html" . -}}
-	{{- range sort .Site.Data.others "code" -}}
-		{{- partial "episode/other.html" . -}}
-	{{- end -}}
-	{{- partial "episode/list-end.html" . -}}
+	{{- $sortedMedia := sort .Site.Data.others "code" -}}
+	{{- partial "others-listing.html" $sortedMedia -}}
 {{- end -}}

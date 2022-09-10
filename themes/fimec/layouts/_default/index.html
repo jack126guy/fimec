@@ -3,20 +3,20 @@
 {{- end -}}
 {{- define "main" -}}
 	<div>{{ .Content }}</div>
+	{{- $scratch := newScratch -}}
+	{{- $scratch.Set "groups" slice -}}
 	{{- $season := "" -}}
 	{{- range .Site.Data.episodes -}}
 		{{- if ne .season $season -}}
 			{{- if $season -}}
-				{{- partial "episode/list-end.html" . -}}
+				{{- $scratch.Add "groups" (dict "key" $season "items" ($scratch.Get "current")) -}}
 			{{- end -}}
-			{{- partial "episode/header-main.html" .season -}}
-			{{- partial "episode/list-start.html" . -}}
 			{{- $season = .season -}}
+			{{- $scratch.Set "current" slice -}}
 		{{- end -}}
-		{{- if .alt -}}
-			{{- partial "episode/main-alt.html" . -}}
-		{{- else -}}
-			{{- partial "episode/main.html" . -}}
-		{{- end -}}
+		{{ $scratch.Add "current" . -}}
 	{{- end -}}
+	{{- $scratch.Add "groups" (dict "key" $season "items" ($scratch.Get "current")) -}}
+
+	{{- partial "main-listing.html" ($scratch.Get "groups") -}}
 {{- end -}}

@@ -1,0 +1,14 @@
+{{- range . -}}
+	{{- partial "episode/header-alphabetical.html" .key -}}
+	{{- partial "episode/list-start.html" . -}}
+	{{- range .items -}}
+		{{- if not .season -}}
+			{{- partial "episode/other.html" . -}}
+		{{- else if .alt -}}
+			{{- partial "episode/alphabetical-alt.html" . -}}
+		{{- else -}}
+			{{- partial "episode/alphabetical.html" . -}}
+		{{- end -}}
+	{{- end -}}
+	{{- partial "episode/list-end.html" . -}}
+{{- end -}}

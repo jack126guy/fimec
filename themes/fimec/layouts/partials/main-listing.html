@@ -1,0 +1,12 @@
+{{- range . -}}
+	{{- partial "episode/header-main.html" .key -}}
+	{{- partial "episode/list-start.html" . -}}
+	{{- range .items -}}
+		{{- if .alt -}}
+			{{- partial "episode/main-alt.html" . -}}
+		{{- else -}}
+			{{- partial "episode/main.html" . -}}
+		{{- end -}}
+	{{- end -}}
+	{{- partial "episode/list-end.html" . -}}
+{{- end -}}

@@ -1,22 +1,21 @@
 {{- define "main" -}}
 	<div>{{ .Content }}</div>
-	{{- $prefix := "" -}}
 	{{- $allMedia := (.Site.Data.episodes | append .Site.Data.others) -}}
-	{{- range sort $allMedia "code" -}}
+	{{- $sortedMedia := sort $allMedia "code" -}}
+	{{- $scratch := newScratch -}}
+	{{- $scratch.Set "groups" slice -}}
+	{{- $prefix := "" -}}
+	{{- range $sortedMedia -}}
 		{{- if ne (substr .code 0 1) $prefix -}}
 			{{- if $prefix -}}
-				{{- partial "episode/list-end.html" . -}}
+				{{- $scratch.Add "groups" (dict "key" $prefix "items" ($scratch.Get "current")) -}}
 			{{- end -}}
-			{{- partial "episode/header-alphabetical.html" (substr .code 0 1) -}}
-			{{- partial "episode/list-start.html" . -}}
 			{{- $prefix = substr .code 0 1 -}}
+			{{- $scratch.Set "current" slice -}}
 		{{- end -}}
-		{{- if not .season -}}
-			{{- partial "episode/other.html" . -}}
-		{{- else if .alt -}}
-			{{- partial "episode/alphabetical-alt.html" . -}}
-		{{- else -}}
-			{{- partial "episode/alphabetical.html" . -}}
-		{{- end -}}
+		{{ $scratch.Add "current" . -}}
 	{{- end -}}
+	{{- $scratch.Add "groups" (dict "key" $prefix "items" ($scratch.Get "current")) -}}
+
+	{{- partial "alphabetical-listing.html" ($scratch.Get "groups") -}}
 {{- end -}}
