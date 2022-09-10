@@ -1,6 +1,5 @@
 {{- define "main" -}}
 	<div>{{ .Content }}</div>
-	{{- $.Scratch.Set "prefix" "" -}}
 	{{- partial "episode/list-start.html" . -}}
 	{{- range sort .Site.Data.others "code" -}}
 		{{- partial "episode/other.html" . -}}

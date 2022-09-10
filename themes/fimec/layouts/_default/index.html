@@ -3,15 +3,15 @@
 {{- end -}}
 {{- define "main" -}}
 	<div>{{ .Content }}</div>
-	{{- $.Scratch.Set "season" "" -}}
+	{{- $season := "" -}}
 	{{- range .Site.Data.episodes -}}
-		{{- if ne .season ($.Scratch.Get "season") -}}
-			{{- if $.Scratch.Get "season" -}}
+		{{- if ne .season $season -}}
+			{{- if $season -}}
 				{{- partial "episode/list-end.html" . -}}
 			{{- end -}}
 			{{- partial "episode/header-main.html" .season -}}
 			{{- partial "episode/list-start.html" . -}}
-			{{- $.Scratch.Set "season" .season -}}
+			{{- $season = .season -}}
 		{{- end -}}
 		{{- if .alt -}}
 			{{- partial "episode/main-alt.html" . -}}
