@@ -1,6 +1,6 @@
 # FiM Episode Codes
 
-[FiM Episode Codes (FIMEC)](http://jackgraysonfox.tk/fimec/) is an experiment in assigning two-letter codes to episodes of *My Little Pony: Friendship is Magic*. I don't know why I decided to do this, exactly.
+[FiM Episode Codes (FIMEC)](https://www.jackgraysonfox.xyz/fimec/) is an experiment in assigning two-letter codes to episodes of *My Little Pony: Friendship is Magic*. I don't know why I decided to do this, exactly.
 
 The site is built with [Hugo](https://gohugo.io/) using a custom theme.
 
