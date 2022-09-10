@@ -6,19 +6,19 @@ nav li {
 	display: inline-block;
 	margin: 0em 0.5em;
 }
-.episodes {
+.episode-list {
 	list-style-type: none;
 	padding-left: 0;
 }
-.episodes li {
+.episode-list li {
 	margin-bottom: 1em;
 }
-.epheader {
+.episode-header {
 	font-size: 110%;
 }
-.epcode {
+.episode-code {
 	font-family: monospace;
 }
-.epname-alt {
+.episode-name-alt {
 	font-style: italic;
 }
