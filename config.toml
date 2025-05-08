@@ -1,5 +1,5 @@
-baseURL = "http://jackgraysonfox.tk/fimec/"
+baseURL = "https://www.jackgraysonfox.xyz/fimec/"
 defaultContentLanguage = "en"
 title = "MLP:FiM Episode Codes"
 theme = "fimec"
-disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "robotsTXT", "404"]
+disableKinds = ["taxonomy", "term", "RSS", "robotsTXT", "404"]
